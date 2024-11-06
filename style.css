@@ -89,3 +89,15 @@ body {
     height: 5px;
 
 }
+
+
+@media  (max-width: 768px){
+
+    
+    .container{
+
+        width: 80%;
+    }
+
+    
+}
